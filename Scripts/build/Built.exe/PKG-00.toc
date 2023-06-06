@@ -1,0 +1,164 @@
+('C:\\Users\\Yandel\\Downloads\\Blank-Grabber-main '
+ '(2)\\Blank-Grabber-main\\Blank '
+ 'Grabber\\env\\Scripts\\build\\Built.exe\\Built.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True},
+ [('PYZ-00.pyz',
+   'C:\\Users\\Yandel\\Downloads\\Blank-Grabber-main '
+   '(2)\\Blank-Grabber-main\\Blank '
+   'Grabber\\env\\Scripts\\build\\Built.exe\\PYZ-00.pyz',
+   'PYZ'),
+  ('pyimod00_crypto_key',
+   'C:\\Users\\Yandel\\Downloads\\Blank-Grabber-main '
+   '(2)\\Blank-Grabber-main\\Blank '
+   'Grabber\\env\\Scripts\\build\\Built.exe\\localpycs\\pyimod00_crypto_key.pyc',
+   'PYMODULE'),
+  ('struct',
+   'C:\\Users\\Yandel\\Downloads\\Blank-Grabber-main '
+   '(2)\\Blank-Grabber-main\\Blank '
+   'Grabber\\env\\Scripts\\build\\Built.exe\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\Yandel\\Downloads\\Blank-Grabber-main '
+   '(2)\\Blank-Grabber-main\\Blank '
+   'Grabber\\env\\Scripts\\build\\Built.exe\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\Yandel\\Downloads\\Blank-Grabber-main '
+   '(2)\\Blank-Grabber-main\\Blank '
+   'Grabber\\env\\Scripts\\build\\Built.exe\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\Yandel\\Downloads\\Blank-Grabber-main '
+   '(2)\\Blank-Grabber-main\\Blank '
+   'Grabber\\env\\Scripts\\build\\Built.exe\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\Yandel\\Downloads\\Blank-Grabber-main '
+   '(2)\\Blank-Grabber-main\\Blank '
+   'Grabber\\env\\Scripts\\build\\Built.exe\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Yandel\\Downloads\\Blank-Grabber-main '
+   '(2)\\Blank-Grabber-main\\Blank '
+   'Grabber\\env\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Yandel\\Downloads\\Blank-Grabber-main '
+   '(2)\\Blank-Grabber-main\\Blank '
+   'Grabber\\env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('stub-o',
+   'C:\\Users\\Yandel\\Downloads\\Blank-Grabber-main '
+   '(2)\\Blank-Grabber-main\\Blank Grabber\\env\\Scripts\\stub-o.py',
+   'PYSOURCE'),
+  ('rar.exe',
+   'C:\\Users\\Yandel\\Downloads\\Blank-Grabber-main '
+   '(2)\\Blank-Grabber-main\\Blank Grabber\\env\\Scripts\\rar.exe',
+   'BINARY'),
+  ('bound.exe',
+   'C:\\Users\\Yandel\\Downloads\\Blank-Grabber-main '
+   '(2)\\Blank-Grabber-main\\Blank Grabber\\env\\Scripts\\bound.exe',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\Yandel\\AppData\\Local\\Programs\\Python\\Python310\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('python310.dll',
+   'C:\\Users\\Yandel\\AppData\\Local\\Programs\\Python\\Python310\\python310.dll',
+   'BINARY'),
+  ('_decimal.pyd',
+   'C:\\Users\\Yandel\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\Yandel\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\Yandel\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\Yandel\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\Yandel\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\Yandel\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('tinyaes.cp310-win_amd64.pyd',
+   'C:\\Users\\Yandel\\Downloads\\Blank-Grabber-main '
+   '(2)\\Blank-Grabber-main\\Blank '
+   'Grabber\\env\\lib\\site-packages\\tinyaes.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\Yandel\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('PIL\\_webp.cp310-win_amd64.pyd',
+   'C:\\Users\\Yandel\\Downloads\\Blank-Grabber-main '
+   '(2)\\Blank-Grabber-main\\Blank '
+   'Grabber\\env\\lib\\site-packages\\PIL\\_webp.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingtk.cp310-win_amd64.pyd',
+   'C:\\Users\\Yandel\\Downloads\\Blank-Grabber-main '
+   '(2)\\Blank-Grabber-main\\Blank '
+   'Grabber\\env\\lib\\site-packages\\PIL\\_imagingtk.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingcms.cp310-win_amd64.pyd',
+   'C:\\Users\\Yandel\\Downloads\\Blank-Grabber-main '
+   '(2)\\Blank-Grabber-main\\Blank '
+   'Grabber\\env\\lib\\site-packages\\PIL\\_imagingcms.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imaging.cp310-win_amd64.pyd',
+   'C:\\Users\\Yandel\\Downloads\\Blank-Grabber-main '
+   '(2)\\Blank-Grabber-main\\Blank '
+   'Grabber\\env\\lib\\site-packages\\PIL\\_imaging.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('_sqlite3.pyd',
+   'C:\\Users\\Yandel\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_sqlite3.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\Yandel\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Users\\Yandel\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\Yandel\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('libcrypto-1_1.dll',
+   'C:\\Users\\Yandel\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libffi-7.dll',
+   'C:\\Users\\Yandel\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\libffi-7.dll',
+   'BINARY'),
+  ('sqlite3.dll',
+   'C:\\Users\\Yandel\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\sqlite3.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'C:\\Users\\Yandel\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('rarreg.key',
+   'C:\\Users\\Yandel\\Downloads\\Blank-Grabber-main '
+   '(2)\\Blank-Grabber-main\\Blank Grabber\\env\\Scripts\\rarreg.key',
+   'DATA'),
+  ('Camera',
+   'C:\\Users\\Yandel\\Downloads\\Blank-Grabber-main '
+   '(2)\\Blank-Grabber-main\\Blank Grabber\\env\\Scripts\\Camera',
+   'DATA'),
+  ('base_library.zip',
+   'C:\\Users\\Yandel\\Downloads\\Blank-Grabber-main '
+   '(2)\\Blank-Grabber-main\\Blank '
+   'Grabber\\env\\Scripts\\build\\Built.exe\\base_library.zip',
+   'DATA')],
+ False,
+ False,
+ True,
+ [],
+ None,
+ None,
+ None)
